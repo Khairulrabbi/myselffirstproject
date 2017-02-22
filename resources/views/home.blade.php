@@ -9,6 +9,8 @@
 
                 <div class="panel-body">
                     You are logged in bro! baby
+                    You are logged inloddd bro! baby
+                    You are loguuliliged in bro! baby
                 </div>
             </div>
         </div>

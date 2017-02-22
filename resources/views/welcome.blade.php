@@ -88,7 +88,9 @@
                     <a href="https://laravel-news.com">News</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://www.google.com">Youtube</a>
                     <a href="https://www.youtube.com">Youtube</a>
+                    <a href="https://www.sex.com">Youtube</a>
                 </div>
             </div>
         </div>
